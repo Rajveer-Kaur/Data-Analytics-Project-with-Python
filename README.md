@@ -2,12 +2,13 @@
 This repository showcases a data analytics project utilizing Python for data cleaning, exploration, and visualization. The project applies various analytical techniques to derive meaningful insights from real-world datasets.
 
 # 🚀 Key Features:<br>
-o Data Cleaning & Preprocessing – Handled missing values, outliers, and data inconsistencies using Pandas & NumPy.
+o Used APIs : yfinance, nbformat
+o Data Extraction, Cleaning & Preprocessing – Extracted data, Handled missing values, outliers, and data inconsistencies using Pandas & NumPy.
 <br>o Exploratory Data Analysis (EDA) – Identified trends, patterns, and correlations through statistical analysis.
-<br>oData Visualization – Created insightful charts and graphs using Matplotlib & Seaborn to present findings effectively.
-<br>oActionable Insights – Applied data-driven techniques to extract valuable information for informed decision-making. 
+<br>o Data Visualization – Created insightful charts and graphs using Matplotlib & Seaborn to present findings effectively.
+<br>o Actionable Insights – Applied data-driven techniques to extract valuable information for informed decision-making. 
 <br>
-📌 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
+📌 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, bs4
 <br>
 💡 This project is part of my journey in mastering data analytics. Contributions, feedback, and discussions are welcome!
 
