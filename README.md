@@ -7,9 +7,11 @@ o Data Extraction, Cleaning & Preprocessing – Extracted data, Handled missing 
 <br>o Exploratory Data Analysis (EDA) – Identified trends, patterns, and correlations through statistical analysis.
 <br>o Data Visualization – Created insightful charts and graphs using Matplotlib & Seaborn to present findings effectively.
 <br>o Actionable Insights – Applied data-driven techniques to extract valuable information for informed decision-making. 
-<br>
+<br><br>
+
 📌 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, bs4
-<br>
+<br><br>
+
 💡 This project is part of my journey in mastering data analytics. Contributions, feedback, and discussions are welcome!
 
 
